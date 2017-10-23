@@ -1,3 +1,3 @@
 # lesson-1
 
-### EventEmitter
+### global
