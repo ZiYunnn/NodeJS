@@ -1,5 +1,3 @@
-# NodeJS
+# lesson-8
 
-### 在master主线中，不会有任何内容
-
-### 每个知识点会以分支的形式进行上传
+### writeHead 的 'Content-Type' 类型
