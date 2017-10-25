@@ -1,5 +1,7 @@
-# NodeJS
+# lesson-9
 
-### 在master主线中，不会有任何内容
+### text/plain: 返回的是纯文本
 
-### 每个知识点会以分支的形式进行上传
+### text/html: 返回的是html
+
+### application/json: 返回的是json
